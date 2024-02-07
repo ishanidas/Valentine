@@ -15,7 +15,7 @@ body {
     color: white; /* Text color on top of the background image */
     font-family: 'Arial' , cursive, sans-serif;
   }
-.button {
+button {
     display: inline-block;
       padding: 10px 20px;
       border: 4px white;
